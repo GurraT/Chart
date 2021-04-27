@@ -3,21 +3,21 @@
 .square {
     background-color: aqua;
     border: black 1px solid;
-    width:50px;
-    height:50px;
+    width:40px;
+    height:40px;
 }
 
 .square_empty{
-    width:50px;
-    height:50px;
+    width:40px;
+    height:40px;
 }
 
-.valence, .atomicmass{
-    font-size: 8px;
+.valence, .atomicmass,.atomname{
+    font-size: 6px;
     border-bottom: 0;
 }
 
-.symbol,.atomname{
-    font-size: 12px;
+.symbol {
+    font-size: 8px;
     border-bottom: 0;
 }
